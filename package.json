@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/AlankritVerma07/chatApp.git"
   },
-  "author": "",
+  "author": "alan_v",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlankritVerma07/chatApp/issues"
@@ -24,5 +24,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
